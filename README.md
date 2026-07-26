@@ -84,12 +84,13 @@ fun_fact: "I ship faster than my coffee cools ☕"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=simran1055&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran1055&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8"/>
-
 <img src="https://streak-stats.demolab.com?user=simran1055&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=simran1055&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simran1055&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simran1055&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simran1055&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simran1055&theme=tokyonight&utcOffset=5.5"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran1055&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true"/>
 

@@ -1,23 +1,115 @@
-# Hi, I'm Harsimran Singh 👋
+<div align="center">
 
-**Flutter & Full Stack Developer** — building production mobile apps, React web products, Node.js backends, and AI integrations for startups and remote teams.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Harsimran%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Full%20Stack%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-🌐 **Portfolio: [devharsimran.in](https://devharsimran.in)**
+<a href="https://devharsimran.in">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Flutter+%26+Full+Stack+Developer;Shipping+apps+to+100K%2B+real+users;React+%2F+Next.js+%2F+Node.js+%2F+AWS;Building+AI-powered+products" alt="Typing SVG"/>
+</a>
 
-## What I do
+<br/>
 
-- 📱 **Flutter mobile apps** — production apps shipped to real users at 100K+ scale
-- ⚛️ **React & Next.js web products** — fast, SEO-friendly, modern web apps
-- 🔌 **Node.js backends & APIs** — scalable services and integrations
-- 🤖 **AI integrations** — LLM-powered features in mobile and web products
+<a href="https://devharsimran.in"><img src="https://img.shields.io/badge/Portfolio-devharsimran.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:harsimran.sliet@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://devharsimran.in/services"><img src="https://img.shields.io/badge/Hire_Me-Available-success?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=simran1055&label=Profile%20Views&color=36BCF7&style=for-the-badge"/>
 
-## Links
+</div>
 
-- 🌐 Website: [devharsimran.in](https://devharsimran.in)
-- 💼 Services: [devharsimran.in/services](https://devharsimran.in/services)
-- 🛠️ Projects: [devharsimran.in/projects](https://devharsimran.in/projects)
-- ✉️ Contact: [devharsimran.in/contact](https://devharsimran.in/contact)
+---
 
-## Tech stack
+### 🧠 About Me
 
-`Flutter` `Dart` `React` `Next.js` `TypeScript` `Node.js` `Firebase` `PostgreSQL` `AWS` `AI/LLM APIs`
+```yaml
+name: Harsimran Singh
+role: Flutter & Full Stack Developer
+focus: [ "Production mobile apps", "AI-powered products", "Scalable backends" ]
+scale: "Apps shipped to 100K+ real users"
+currently: "Building LLM-powered features into mobile & web"
+open_to: [ "Freelance", "Remote roles", "Startup collabs" ]
+portfolio: "https://devharsimran.in"
+fun_fact: "I ship faster than my coffee cools ☕"
+```
+
+---
+
+### ⚡ What I Do
+
+| | |
+|---|---|
+| 📱 **Flutter Mobile Apps** | Production apps serving 100K+ users, built to scale |
+| ⚛️ **React & Next.js** | Fast, SEO-friendly, modern web products |
+| 🔌 **Node.js Backends** | Scalable APIs, services & third-party integrations |
+| 🤖 **AI Integrations** | LLM-powered features baked into mobile and web |
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Cloud**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=simran1055&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran1055&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8"/>
+
+<img src="https://streak-stats.demolab.com?user=simran1055&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=simran1055&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simran1055&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true"/>
+
+</div>
+
+---
+
+### 🌐 Connect
+
+<div align="center">
+
+<a href="https://devharsimran.in"><img src="https://img.shields.io/badge/Website-36BCF7?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
+<a href="https://devharsimran.in/projects"><img src="https://img.shields.io/badge/Projects-6E5494?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://devharsimran.in/services"><img src="https://img.shields.io/badge/Services-FF6B35?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
+<a href="https://devharsimran.in/contact"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>⭐ From <a href="https://github.com/simran1055">simran1055</a> — let's build something people actually use.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+
+</div>

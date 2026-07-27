@@ -87,15 +87,10 @@ fun_fact:  "I ship faster than my coffee cools ☕"
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Activity
 
 <div align="center">
-<img height="170" alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran1055&theme=github_dark"/>
-<br/>
-<img height="170" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simran1055&theme=github_dark"/>
-<img height="170" alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simran1055&theme=github_dark"/>
-<br/>
-<img width="580" alt="Contribution streak" src="https://streak-stats.demolab.com?user=simran1055&border=30363D&border_radius=6&background=0D1117&stroke=30363D&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+<img width="600" alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran1055&theme=github_dark"/>
 </div>
 
 ---

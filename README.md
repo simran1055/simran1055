@@ -80,21 +80,24 @@ fun_fact: "I ship faster than my coffee cools ☕"
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Highlights
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=simran1055&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simran1055&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simran1055&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simran1055&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simran1055&theme=tokyonight&utcOffset=5.5"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simran1055&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true"/>
+<img src="https://img.shields.io/badge/Apps_Shipped-Production_Scale-0D1117?style=for-the-badge&labelColor=36BCF7"/>
+<img src="https://img.shields.io/badge/Users_Reached-100K%2B-0D1117?style=for-the-badge&labelColor=36BCF7"/>
+<img src="https://img.shields.io/badge/Building_Since-2019-0D1117?style=for-the-badge&labelColor=36BCF7"/>
+<img src="https://img.shields.io/badge/Focus-Mobile_%2B_AI-0D1117?style=for-the-badge&labelColor=36BCF7"/>
 
 </div>
+
+> 📱 **Production Flutter apps** running at 100K+ user scale
+>
+> 🤖 **AI / LLM features** shipped inside real mobile and web products
+>
+> ⚡ **End-to-end delivery** — from design to App Store to backend infra
+>
+> 🔎 Most of my work lives in private client repos — full case studies at [devharsimran.in/projects](https://devharsimran.in/projects)
 
 ---
 

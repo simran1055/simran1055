@@ -8,10 +8,7 @@
 
 <br/><br/>
 
-<a href="https://devharsimran.in"><img height="28" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:harsimran.sliet@gmail.com"><img height="28" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://devharsimran.in/services"><img height="28" alt="Hire me" src="https://img.shields.io/badge/Hire_Me-2EA043?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-<img height="28" alt="Profile views" src="https://komarev.com/ghpvc/?username=simran1055&label=Profile+views&color=0891B2&style=for-the-badge"/>
+<a href="https://devharsimran.in"><img height="28" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="mailto:harsimran.sliet@gmail.com"><img height="28" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://devharsimran.in/services"><img height="28" alt="Hire me" src="https://img.shields.io/badge/Hire_Me-2EA043?style=for-the-badge&logo=upwork&logoColor=white"/></a> <img height="28" alt="Profile views" src="https://komarev.com/ghpvc/?username=simran1055&label=Profile+views&color=0891B2&style=for-the-badge"/>
 
 </div>
 
@@ -30,10 +27,7 @@
 <br/>
 
 <div align="center">
-<img height="28" alt="Users reached 100K+" src="https://img.shields.io/badge/Users_reached-100K%2B-0F766E?style=for-the-badge"/>
-<img height="28" alt="Building since 2019" src="https://img.shields.io/badge/Building_since-2019-1D4ED8?style=for-the-badge"/>
-<img height="28" alt="Main focus Mobile and AI" src="https://img.shields.io/badge/Main_focus-Mobile_%2B_AI-7C3AED?style=for-the-badge"/>
-<img height="28" alt="Open for freelance" src="https://img.shields.io/badge/Freelance-Open-16A34A?style=for-the-badge"/>
+<img height="28" alt="Users reached 100K+" src="https://img.shields.io/badge/Users_reached-100K%2B-0F766E?style=for-the-badge"/> <img height="28" alt="Building since 2019" src="https://img.shields.io/badge/Building_since-2019-1D4ED8?style=for-the-badge"/> <img height="28" alt="Main focus Mobile and AI" src="https://img.shields.io/badge/Main_focus-Mobile_%2B_AI-7C3AED?style=for-the-badge"/> <img height="28" alt="Open for freelance" src="https://img.shields.io/badge/Freelance-Open-16A34A?style=for-the-badge"/>
 </div>
 
 ---
@@ -84,10 +78,7 @@
 
 <div align="center">
 
-<a href="https://devharsimran.in"><img height="28" alt="Website" src="https://img.shields.io/badge/Website-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://devharsimran.in/projects"><img height="28" alt="Projects" src="https://img.shields.io/badge/Projects-6E5494?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://devharsimran.in/services"><img height="28" alt="Services" src="https://img.shields.io/badge/Services-FF6B35?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-<a href="mailto:harsimran.sliet@gmail.com"><img height="28" alt="Contact" src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://devharsimran.in"><img height="28" alt="Website" src="https://img.shields.io/badge/Website-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://devharsimran.in/projects"><img height="28" alt="Projects" src="https://img.shields.io/badge/Projects-6E5494?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://devharsimran.in/services"><img height="28" alt="Services" src="https://img.shields.io/badge/Services-FF6B35?style=for-the-badge&logo=upwork&logoColor=white"/></a> <a href="mailto:harsimran.sliet@gmail.com"><img height="28" alt="Contact" src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 

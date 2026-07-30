@@ -4,11 +4,11 @@
 
 <br/>
 
-<a href="https://devharsimran.in"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&height=44&lines=Flutter+%26+Full+Stack+Developer;Shipping+apps+to+100K%2B+real+users;React+%2F+Next.js+%2F+Node.js+%2F+AWS;Building+AI-powered+products" alt="Flutter and Full Stack Developer"/></a>
+<a href="https://devharsimran.in" style="display: inline-block; width: auto;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&height=44&lines=Flutter+%26+Full+Stack+Developer;Shipping+apps+to+100K%2B+real+users;React+%2F+Next.js+%2F+Node.js+%2F+AWS;Building+AI-powered+products" alt="Flutter and Full Stack Developer"/></a>
 
 <br/><br/>
 
-<a href="https://devharsimran.in"><img height="28" style="width: auto;" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="mailto:harsimran.sliet@gmail.com"><img height="28" style="width: auto;" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://devharsimran.in/services"><img height="28" style="width: auto;" alt="Hire me" src="https://img.shields.io/badge/Hire_Me-2EA043?style=for-the-badge&logo=upwork&logoColor=white"/></a> <img height="28" style="width: auto;" alt="Profile views" src="https://komarev.com/ghpvc/?username=simran1055&label=Profile+views&color=0891B2&style=for-the-badge"/>
+<a href="https://devharsimran.in" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="mailto:harsimran.sliet@gmail.com" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://devharsimran.in/services" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Hire me" src="https://img.shields.io/badge/Hire_Me-2EA043?style=for-the-badge&logo=upwork&logoColor=white"/></a> <img height="28" style="width: auto;" alt="Profile views" src="https://komarev.com/ghpvc/?username=simran1055&label=Profile+views&color=0891B2&style=for-the-badge"/>
 
 </div>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<a href="https://devharsimran.in"><img height="28" style="width: auto;" alt="Website" src="https://img.shields.io/badge/Website-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://devharsimran.in/projects"><img height="28" style="width: auto;" alt="Projects" src="https://img.shields.io/badge/Projects-6E5494?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://devharsimran.in/services"><img height="28" style="width: auto;" alt="Services" src="https://img.shields.io/badge/Services-FF6B35?style=for-the-badge&logo=upwork&logoColor=white"/></a> <a href="mailto:harsimran.sliet@gmail.com"><img height="28" style="width: auto;" alt="Contact" src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://devharsimran.in" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Website" src="https://img.shields.io/badge/Website-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://devharsimran.in/projects" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Projects" src="https://img.shields.io/badge/Projects-6E5494?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://devharsimran.in/services" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Services" src="https://img.shields.io/badge/Services-FF6B35?style=for-the-badge&logo=upwork&logoColor=white"/></a> <a href="mailto:harsimran.sliet@gmail.com" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Contact" src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 

@@ -4,11 +4,7 @@
 
 <br/>
 
-<a href="https://devharsimran.in" style="display: inline-block; width: auto;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&height=44&lines=Flutter+%26+Full+Stack+Developer;Shipping+apps+to+100K%2B+real+users;React+%2F+Next.js+%2F+Node.js+%2F+AWS;Building+AI-powered+products" alt="Flutter and Full Stack Developer"/></a>
-
-<br/><br/>
-
-<a href="https://devharsimran.in" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="mailto:harsimran.sliet@gmail.com" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://devharsimran.in/services" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Hire me" src="https://img.shields.io/badge/Hire_Me-2EA043?style=for-the-badge&logo=upwork&logoColor=white"/></a> <img height="28" style="width: auto;" alt="Profile views" src="https://komarev.com/ghpvc/?username=simran1055&label=Profile+views&color=0891B2&style=for-the-badge"/>
+<a href="https://devharsimran.in"><img height="28" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="mailto:harsimran.sliet@gmail.com"><img height="28" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://devharsimran.in/services"><img height="28" alt="Hire me" src="https://img.shields.io/badge/Hire_Me-2EA043?style=for-the-badge&logo=upwork&logoColor=white"/></a> <img height="28" alt="Profile views" src="https://komarev.com/ghpvc/?username=simran1055&label=Profile+views&color=0891B2&style=for-the-badge"/>
 
 </div>
 
@@ -27,7 +23,7 @@
 <br/>
 
 <div align="center">
-<img height="28" style="width: auto;" alt="Users reached 100K+" src="https://img.shields.io/badge/Users_reached-100K%2B-0F766E?style=for-the-badge"/> <img height="28" style="width: auto;" alt="Building since 2019" src="https://img.shields.io/badge/Building_since-2019-1D4ED8?style=for-the-badge"/> <img height="28" style="width: auto;" alt="Main focus Mobile and AI" src="https://img.shields.io/badge/Main_focus-Mobile_%2B_AI-7C3AED?style=for-the-badge"/> <img height="28" style="width: auto;" alt="Open for freelance" src="https://img.shields.io/badge/Freelance-Open-16A34A?style=for-the-badge"/>
+<img height="28" alt="Users reached 100K+" src="https://img.shields.io/badge/Users_reached-100K%2B-0F766E?style=for-the-badge"/> <img height="28" alt="Building since 2019" src="https://img.shields.io/badge/Building_since-2019-1D4ED8?style=for-the-badge"/> <img height="28" alt="Main focus Mobile and AI" src="https://img.shields.io/badge/Main_focus-Mobile_%2B_AI-7C3AED?style=for-the-badge"/> <img height="28" alt="Open for freelance" src="https://img.shields.io/badge/Freelance-Open-16A34A?style=for-the-badge"/>
 </div>
 
 ---
@@ -45,23 +41,23 @@
 
 **Mobile**
 
-<img height="28" style="width: auto;" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img height="28" style="width: auto;" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img height="28" style="width: auto;" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img height="28" style="width: auto;" alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img height="28" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img height="28" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img height="28" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img height="28" alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 
 **Frontend**
 
-<img height="28" style="width: auto;" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img height="28" style="width: auto;" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img height="28" style="width: auto;" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img height="28" style="width: auto;" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img height="28" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img height="28" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img height="28" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img height="28" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
 **Backend**
 
-<img height="28" style="width: auto;" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img height="28" style="width: auto;" alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> <img height="28" style="width: auto;" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img height="28" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img height="28" alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> <img height="28" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 **Cloud & DevOps**
 
-<img height="28" style="width: auto;" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img height="28" style="width: auto;" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img height="28" style="width: auto;" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img height="28" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img height="28" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img height="28" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 **AI**
 
-<img height="28" style="width: auto;" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img height="28" style="width: auto;" alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img height="28" style="width: auto;" alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img height="28" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img height="28" alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img height="28" alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 
 ---
 
@@ -78,7 +74,7 @@
 
 <div align="center">
 
-<a href="https://devharsimran.in" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Website" src="https://img.shields.io/badge/Website-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://devharsimran.in/projects" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Projects" src="https://img.shields.io/badge/Projects-6E5494?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://devharsimran.in/services" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Services" src="https://img.shields.io/badge/Services-FF6B35?style=for-the-badge&logo=upwork&logoColor=white"/></a> <a href="mailto:harsimran.sliet@gmail.com" style="display: inline-block; width: auto;"><img height="28" style="width: auto;" alt="Contact" src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://devharsimran.in"><img height="28" alt="Website" src="https://img.shields.io/badge/Website-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://devharsimran.in/projects"><img height="28" alt="Projects" src="https://img.shields.io/badge/Projects-6E5494?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://devharsimran.in/services"><img height="28" alt="Services" src="https://img.shields.io/badge/Services-FF6B35?style=for-the-badge&logo=upwork&logoColor=white"/></a> <a href="mailto:harsimran.sliet@gmail.com"><img height="28" alt="Contact" src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 

@@ -6,9 +6,12 @@
 
 <a href="https://devharsimran.in"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&height=44&lines=Flutter+%26+Full+Stack+Developer;Shipping+apps+to+100K%2B+real+users;React+%2F+Next.js+%2F+Node.js+%2F+AWS;Building+AI-powered+products" alt="Flutter and Full Stack Developer"/></a>
 
-<br/>
+<br/><br/>
 
-<a href="https://devharsimran.in"><img height="28" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="mailto:harsimran.sliet@gmail.com"><img height="28" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://devharsimran.in/services"><img height="28" alt="Hire me" src="https://img.shields.io/badge/Hire_Me-2EA043?style=for-the-badge&logo=upwork&logoColor=white"/></a> <img height="28" alt="Profile views" src="https://komarev.com/ghpvc/?username=simran1055&label=Profile+views&color=0891B2&style=for-the-badge"/>
+<a href="https://devharsimran.in"><img height="28" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:harsimran.sliet@gmail.com"><img height="28" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://devharsimran.in/services"><img height="28" alt="Hire me" src="https://img.shields.io/badge/Hire_Me-2EA043?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+<img height="28" alt="Profile views" src="https://komarev.com/ghpvc/?username=simran1055&label=Profile+views&color=0891B2&style=for-the-badge"/>
 
 </div>
 
@@ -17,19 +20,21 @@
 ### 🧠 About Me
 
 - 📱 **Flutter & Full Stack Developer** — production mobile apps, modern web products and scalable backends
-- 🎯 Focus — production mobile apps, AI-powered products, scalable backends
-- 🚀 Scale — apps shipped to **100K+ real users**
-- 🤖 Currently — building LLM-powered features into mobile & web
-- 💼 Open to — freelance, remote roles, startup collabs
-- 🌐 Portfolio — **[devharsimran.in](https://devharsimran.in)**
-- ☕ Fun fact — I ship faster than my coffee cools
+- 🎯 **Focus** — production mobile apps, AI-powered products, scalable backends
+- 🚀 **Scale** — apps shipped to **100K+ real users**
+- 🤖 **Currently** — building LLM-powered features into mobile & web
+- 💼 **Open to** — freelance, remote roles, startup collabs
+- 🌐 **Portfolio** — **[devharsimran.in](https://devharsimran.in)**
+- ☕ **Fun fact** — I ship faster than my coffee cools
 
-<p align="center">
+<br/>
+
+<div align="center">
 <img height="28" alt="Users reached 100K+" src="https://img.shields.io/badge/Users_reached-100K%2B-0F766E?style=for-the-badge"/>
 <img height="28" alt="Building since 2019" src="https://img.shields.io/badge/Building_since-2019-1D4ED8?style=for-the-badge"/>
 <img height="28" alt="Main focus Mobile and AI" src="https://img.shields.io/badge/Main_focus-Mobile_%2B_AI-7C3AED?style=for-the-badge"/>
 <img height="28" alt="Open for freelance" src="https://img.shields.io/badge/Freelance-Open-16A34A?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
@@ -79,11 +84,16 @@
 
 <div align="center">
 
-<a href="https://devharsimran.in"><img height="28" alt="Website" src="https://img.shields.io/badge/Website-36BCF7?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a> <a href="https://devharsimran.in/projects"><img height="28" alt="Projects" src="https://img.shields.io/badge/Projects-6E5494?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://devharsimran.in/services"><img height="28" alt="Services" src="https://img.shields.io/badge/Services-FF6B35?style=for-the-badge&logo=briefcase&logoColor=white"/></a> <a href="mailto:harsimran.sliet@gmail.com"><img height="28" alt="Contact" src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
+<a href="https://devharsimran.in"><img height="28" alt="Website" src="https://img.shields.io/badge/Website-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://devharsimran.in/projects"><img height="28" alt="Projects" src="https://img.shields.io/badge/Projects-6E5494?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://devharsimran.in/services"><img height="28" alt="Services" src="https://img.shields.io/badge/Services-FF6B35?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+<a href="mailto:harsimran.sliet@gmail.com"><img height="28" alt="Contact" src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
 <i>⭐ From <a href="https://github.com/simran1055">simran1055</a> — let's build something people actually use.</i>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=75&animation=fadeIn" width="100%" alt="Thanks for visiting"/>
 
